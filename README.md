@@ -2,7 +2,7 @@
 - 🌎 Languages to contact me: Portuguese-BR/Português-BR
 - 🌱 I’m currently learning: Finishing High School/Terminando o ensino médio
 - 💬 Ask me about: All/Tudo
-- 📫 How to reach me: Contate-me email: tailanoliveira584@gmail.com
+- 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
 - 😄 Pronouns: Him/His or Ele/Dele
 
 RECEBAAA!!
