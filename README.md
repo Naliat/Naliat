@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Finishing High School/Terminando o ensino médio
 - 💬 Ask me about: All/Tudo
 - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
-- 😄 Pronouns: Him/His or Ele/Dele
+- 😄 Pronouns: He/Him or Ele/Dele
 
 RECEBAAA!!
 <div align="center">
