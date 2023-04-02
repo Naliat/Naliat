@@ -5,7 +5,6 @@
 - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
 - 😄 Pronouns: He/Him or Ele/Dele
 
-RECEBAAA!!
 <div align="center">
   <a href="https://github.com/naliat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naliat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
