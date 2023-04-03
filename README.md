@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Tailan
 
-    hire me
+    At best I'll be there
 
 - 🌎 Languages to contact me: Portuguese-BR/Português-BR
 - 🌱 I’m currently learning: Finishing High School/Terminando o ensino médio
