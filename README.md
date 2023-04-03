@@ -1,6 +1,12 @@
 ### Olá! Eu sou o Tailan
 
     At best I'll be there
+    
+    - 🌎 Languages to contact me: Portuguese-BR/Português-BR
+    - 🌱 I’m currently learning: Finishing High School/Terminando o ensino médio
+    - 💬 Ask me about: All/Tudo
+    - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
+    - 😄 Pronouns: He/Him or Ele/Dele
 
 <div align="center"><br>
   <img align="center" alt="Tailan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
