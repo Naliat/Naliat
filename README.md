@@ -2,11 +2,10 @@
 
     At best I'll be there
     
-    - 🌎 Languages to contact me: Portuguese-BR/Português-BR
-    - 🌱 I’m currently learning: Finishing High School/Terminando o ensino médio
-    - 💬 Ask me about: All/Tudo
+    - 🌎 Languages to contact me: Portuguese-BR
+    - 🌱 I’m currently learning: Information Systems - Federal University of Ceará
     - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
-    - 😄 Pronouns: He/Him or Ele/Dele
+ 
 
 <div align="center">
   <a href="https://github.com/naliat">
