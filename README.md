@@ -6,11 +6,6 @@
     - 🌱 I’m currently learning: Information Systems - Federal University of Ceará
     - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
  
-<div align="center">
-  <a href="https://github.com/naliat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naliat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naliat&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
     
 ### 🧠 hardskills
