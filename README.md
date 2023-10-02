@@ -2,7 +2,7 @@
 
     At best I'll be there
     
-    - 🌎 Languages to contact me: Portuguese-BR
+    - 🌎 Languages to contact me: Portuguese-BR and English
     - 🌱 I’m currently learning: Information Systems - Federal University of Ceará
     - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
  
