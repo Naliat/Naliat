@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Tailan+de+Souza+Oliveira;I'm+18+years+old;I+am+from+Quixadá,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
     At best I'll be there
     
