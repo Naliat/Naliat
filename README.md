@@ -4,7 +4,7 @@
     
     - 🌎 Languages to contact me: Portuguese-BR and English
     - 🌱 I’m currently learning: Information Systems - Federal University of Ceará
-    - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com
+    - 📫 How to find me: Contate-me email: tailansouza@alu.ufc.br
  
 
     
