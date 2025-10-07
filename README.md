@@ -1,4 +1,4 @@
-## 👋 At best I'll be there
+## 👋 "A vida é boa quando você está feliz, mas é muito melhor quando os outros estão felizes por sua causa.” (Papa Francisco)
 
 - 🌎 Languages to contact me: Portuguese-BR and English  
 - 🌱 I’m currently learning: Information Systems - Federal University of Ceará  
