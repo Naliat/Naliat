@@ -1,4 +1,4 @@
-## 👋"O propósito está em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer.” (Tailan de Souza)
+## "O propósito está em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer.” (Tailan de Souza)
 - 🌎 Languages to contact me: Portuguese-BR and English  
 - 🌱 I’m currently learning: Information Systems - Federal University of Ceará  
 - 📫 How to find me: Contate-me email: tailanoliveira584@gmail.com  
