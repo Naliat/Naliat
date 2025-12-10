@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Tailan de Souza!</h1>
+<h1 align="center">Olá, sou Tailan de Souza...</h1>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/41838863/file/original-e19956eb5b7f3d9b292ef0786e34a17a.gif" width="200" height="150" alt="Pessoa tomando café e programando"/>
