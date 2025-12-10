@@ -60,7 +60,7 @@ Minha jornada de código e contribuições:
 Sinta-se à vontade para entrar em contato através das minhas redes!
 
 <p align="center">
-    <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/tailandesouza/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://instagram.com/tailansouzz" target="_blank">
