@@ -4,9 +4,8 @@
   <img src="https://cdn.dribbble.com/userupload/41838863/file/original-e19956eb5b7f3d9b292ef0786e34a17a.gif" width="200" height="150" alt="Pessoa tomando café e programando"/>
 </p>
 
----
 
-> **"O propósito reside em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer."**
+ **"O propósito reside em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer."**
 > 
 <br>
 
