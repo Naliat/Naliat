@@ -1,17 +1,13 @@
 <h1 align="center">Olá, sou Tailan de Souza!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8APkG9Ld3a/giphy.gif" width="200" height="150" alt="Um gato digitando em um computador e tomando café"/>
+  <img src="https://cdn.dribbble.com/userupload/41838863/file/original-e19956eb5b7f3d9b292ef0786e34a17a.gif" width="200" height="150" alt="Pessoa tomando café e programando"/>
 </p>
 
 ---
 
-### ☕ Foco e Propósito
-
-> 🧠 **"O propósito reside em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer."**
+> **"O propósito reside em cada passo, e o estudo é sempre um caminho possível. Persistir é escolher crescer."**
 > 
-> Sou um entusiasta da tecnologia buscando transformar ideias em soluções funcionais e escaláveis. Sempre com uma xícara de café por perto!
-
 <br>
 
 | Detalhes Essenciais | Status Atual |
@@ -70,7 +66,7 @@ Sinta-se à vontade para entrar em contato através das minhas redes!
     <a href="https://instagram.com/tailansouzz" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:tailansouzzdev@gmail.com" target="_blank">
+    <a href="mailto:tailanoliveira584@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/Naliat" target="_blank">
