@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou Tailan Oliveira!</h1>
+<h1 align="center">Olá, sou Tailan de Souza!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmN8APkG9Ld3a/giphy.gif" width="200" height="150" alt="Um gato digitando em um computador e tomando café"/>
