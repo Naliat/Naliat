@@ -30,6 +30,9 @@ Tecnologias e linguagens que utilizo no desenvolvimento de projetos:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" title="Julia" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>
 </p>
@@ -39,14 +42,6 @@ Tecnologias e linguagens que utilizo no desenvolvimento de projetos:
 ### 📊 Estatísticas e Atividade no GitHub
 
 Minha jornada de código e contribuições:
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naliat&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naliat&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas"/>
-</p>
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naliat&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
