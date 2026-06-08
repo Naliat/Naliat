@@ -79,6 +79,7 @@ Possuo interesse na área de desenvolvimento Full Stack, criação de sistemas, 
 
 *   🏅 **NVIDIA:** *Fundamentals of Deep Learning* (Visão computacional e processamento de imagens)
 *   🏅 **Instituto Atlântico:** *Formação em Desenvolvimento Full-Stack* (Imersão prática de 1 ano)
+*   *   🏅 **Irede** *Formação em Desenvolvimento Java* (Em andamento)
 
 ---
 
