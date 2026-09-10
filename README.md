@@ -55,7 +55,7 @@ I am interested in Full Stack development, system architecture, problem-solving,
       <h4>Academic Experience & Education</h4>
       <ul>
         <li>
-          <strong>UFC — Teaching Assistant Scholarship (PID/PAIP)</strong> <br>
+          <strong>UFC - Teaching Assistant Scholarship (PID/PAIP)</strong> <br>
           <small><em>Jan 2025 – Dec 2026</em></small>
           <p>Assisting undergraduate teaching, creating educational materials, and facilitating cooperative learning dynamics.</p>
         </li>
