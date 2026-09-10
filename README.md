@@ -35,7 +35,7 @@ I am interested in Full Stack development, system architecture, problem-solving,
       <h4>Development Experience</h4>
       <ul>
         <li>
-          <strong>UFC — Colonymon Project</strong> <br>
+          <strong>UFC - Colonymon Project</strong> <br>
           <small><em>Back-End Developer | Mar 2026 – Present</em></small>
           <p>Development of TypeScript/Python APIs for managing IoT sensor data applied to beekeeping. Legacy system refactoring.</p>
         </li>
